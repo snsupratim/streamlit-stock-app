@@ -25,15 +25,3 @@ A simple Streamlit app to visualize the historical stock prices and volume data 
    git clone https://github.com/SNSUPRATIM/streamlit-stock-app.git
 
    ```
-
-# git init
-
-# git add README.md
-
-# git commit -m "first commit"
-
-# git branch -M main
-
-# git remote add origin https://github.com/snsupratim/streamlit-stock-app.git
-
-# git push -u origin main
