@@ -3,7 +3,7 @@ import yfinance as yf
 
 st.write(
     '''
-# Stock Price App :
+## Stock Price App :
 '''
 )
 
